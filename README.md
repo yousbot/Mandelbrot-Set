@@ -4,4 +4,4 @@
 
 This MATLAB project, now archived, offers a captivating visualization of the renowned Mandelbrot Set, a fascinating mathematical fractal. To learn more about the Mandelbrot Set, visit the [Wikipedia page](https://en.wikipedia.org/wiki/Mandelbrot_set).
 
-![Mandelbrot Set](https://github.com/yousbot/Mandelbrot-Set/Mandelbrot_Set.JPG)
+![Mandelbrot Set](https://raw.githubusercontent.com/yousbot/Mandelbrot-Set/master/Mandelbrot_Set.JPG)
